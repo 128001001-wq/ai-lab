@@ -1,0 +1,6 @@
+{
+  "name": "Concrete Strength AI Lab",
+  "description": "Civil Engineering Data Analytics lab application featuring the UCI Concrete Compressive Strength dataset, interactive machine learning regression models, exploratory scatter and correlation plots, mix calculator with inverse design, and an engineering AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
